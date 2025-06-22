@@ -4,6 +4,7 @@ This is a Python-based tool for auto-sorting, renaming, and installing system fo
 
 
 ！！！！！工作流需要额外安装fonttools库
+
 The workflow requires the additional installation of the fonttools library.
 
 pip install fonttools
